@@ -1,2 +1,2 @@
-# cnc_lms3990
-New parts and modifications to the CNC Fusion kit for LMS3990
+Project for CNC conversion of the LMS3990 mini mill.  I installed the CNC Fusion kit #4.  These are modifications afterwards.
+

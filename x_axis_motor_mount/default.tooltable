@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<HeeksCAD_Document>
+    <Tool title="3/4 inch long End Mill" tool_number="1" id="8">
+        <params diameter="19.05000000" tool_length_offset="0.00000000" automatically_generate_title="0" material="0" type="end_mill" corner_radius="0.00000000" flat_radius="0.00000000" cutting_edge_angle="0.00000000" cutting_edge_height="41.27500000" />
+    </Tool>
+    <Tool title="1/2 inch  End Mill" tool_number="2" id="11">
+        <params diameter="12.70000000" tool_length_offset="0.00000000" automatically_generate_title="0" material="0" type="end_mill" corner_radius="0.00000000" flat_radius="0.00000000" cutting_edge_angle="0.00000000" cutting_edge_height="50.80000000" />
+    </Tool>
+    <Tool title="3/8 inch  End Mill" tool_number="3" id="12">
+        <params diameter="9.52500000" tool_length_offset="0.00000000" automatically_generate_title="0" material="0" type="end_mill" corner_radius="0.00000000" flat_radius="0.00000000" cutting_edge_angle="0.00000000" cutting_edge_height="50.80000000" />
+    </Tool>
+    <Tool title="6.5 mm Drill Bit" tool_number="4" id="13">
+        <params diameter="6.50000000" tool_length_offset="0.00000000" automatically_generate_title="1" material="0" type="drill" corner_radius="0.00000000" flat_radius="0.00000000" cutting_edge_angle="0.00000000" cutting_edge_height="50.80000000" />
+    </Tool>
+    <Tool title="11.25 mm Drill Bit" tool_number="5" id="9">
+        <params diameter="11.25000000" tool_length_offset="0.00000000" automatically_generate_title="1" material="0" type="drill" corner_radius="0.00000000" flat_radius="0.00000000" cutting_edge_angle="0.00000000" cutting_edge_height="41.27500000" />
+    </Tool>
+    <Tool title="9/16 inch End Mill 2 flute HSS 1/2 inch shank" tool_number="6" id="18">
+        <params diameter="14.28750000" tool_length_offset="0.00000000" automatically_generate_title="0" material="0" type="end_mill" corner_radius="0.00000000" flat_radius="0.00000000" cutting_edge_angle="0.00000000" cutting_edge_height="30.00000000" />
+    </Tool>
+</HeeksCAD_Document>

@@ -1,0 +1,14 @@
+(Created with emc2b post processor 2017/01/08 12:11)
+(bk- 6.5mm through holes)
+(tool change to 6.5 mm Drill Bit)
+T4 M06 G43
+G17 G90 G21
+G00 X24.25 Y-21 S2500 M03
+(Z10 - bk too high for drill bit.  Use 5 mm clearance)
+Z5
+G83 Q4 G98 X24.25 Y-21 Z-44 R4 F100
+X96.25 Y-21 
+X60.25 Y-37 
+G80
+T0 M06 M02
+

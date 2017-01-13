@@ -1,0 +1,11 @@
+(bk- Counterbore)
+(tool change to 11.25 mm Counterbore)
+T5 M06 G43
+G17 G90 G21
+(Add 7 mm to Z clearance to accomodate pilot)
+G00 Z12
+X24.25 Y-21 S2500 M03
+G83 Q3 X24.25 Y-21 Z-26.1 R4 F100
+X96.25 Y-21 
+G80
+T0 M06 M02
