@@ -43,3 +43,7 @@ Operations:
 - Touch off Y=0 from vise edge before mounting part
 - Touch off tool Z=0 from the parallels, without the part mounted in vise yet.  Or from vise top, accounting for height of vise minus the parallels.
 
+## Results
+See the first_try_front.jpg and first_try_back.jpg. These are from the first part I made. Surface finish is pretty poor, and I had to take a file to it in several places. I made a mistake after a tool change and the end mill crashed into the top surface, leaving a defect. There was a lot of x-axis backlash and the center hole came out undersized.  I had to recut that a second time to allow the motor to fit. The lead-in/lead-out during the profiling operation left a mark on the top surface, and that surface was not flat. Not sure yet if this was due to missed steps or something else.  45-deg cuts had a rippled appearance. Dimensions on X were undersized.  Dimensions on Y and Z were accurate within ~6 mil.  Overall quality was poor, but the fit was sufficient to install and use. 
+
+After installing the mount, it seems to function well. X-axis no longer binds, and I can fully tighten the ballnut set screw to improve backlash. There is no interference with the DRO mounting rail, so I can now achieve over 12 inch table travel in X.  For my very first CNC part, it wasn't too bad.
